@@ -1,0 +1,21 @@
+<svg width="100%" viewBox="0 0 680 680" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Tabata Timer icon</title>
+  <desc>A round blue circle with an optically balanced circular arrow and clock hands</desc>
+
+  <circle cx="340" cy="340" r="300" fill="#2a40c8" />
+
+  <g transform="translate(12, 12)">
+    <path d="M 225 539.2 A 230 230 0 1 1 502.6 177.4" 
+          fill="none" 
+          stroke="white" 
+          stroke-width="44" 
+          stroke-linecap="round" />
+
+    <line x1="340" y1="340" x2="200" y2="400" stroke="white" stroke-width="36" stroke-linecap="round" />
+
+    <line x1="340" y1="340" x2="400" y2="260" stroke="white" stroke-width="36" stroke-linecap="round" />
+
+    <circle cx="340" cy="340" r="22" fill="white" />
+    <circle cx="340" cy="340" r="10" fill="#2a40c8" />
+  </g>
+</svg>
